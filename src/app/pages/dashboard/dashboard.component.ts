@@ -201,7 +201,7 @@ export class AppDashboardComponent {
     {
       id: 2,
       imgSrc: '/assets/images/products/s5.jpg',
-      title: 'MacBook Air Pro',
+      title: 'MacBook M2 Pro',
       price: '285',
       rprice: '375',
     },
