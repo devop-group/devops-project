@@ -209,7 +209,7 @@ export class AppDashboardComponent {
       id: 3,
       imgSrc: '/assets/images/products/s7.jpg',
       title: 'Red Valvet Dress',
-      price: '285',
+      price: '280',
       rprice: '375',
     },
     {
